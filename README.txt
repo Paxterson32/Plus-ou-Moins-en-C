@@ -1,2 +1,2 @@
-# Calculatrice
-Projet personnel de conception d'une calculatrice pouvant permettre de faire toutes les opérations possibles et aussi permettre à l'utilisateur de recommencer son action sans avoir à redémarrer le programme.
+# PLUS OU MMOINS
+Jeu du plus ou moins avec deux variantes : le niveau de difficulté ( augmentation de l'intervalle de valeurs possibles ) et aussi le fait qu'on peut jouer au jeu à plusieurs.
